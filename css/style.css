@@ -115,61 +115,7 @@ img {
 strong {
     background: linear-gradient(transparent 70%, rgb(28, 219, 213) 0%);
 }
-/* #title {
-    height: 80vh;
-    background-image: url(/images/bg-title.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    background-color: #ffffff;
-    opacity: 0.6;
-} */
 
-/* * {
-    margin: 0;
-    padding: 0;
-} 
-#title {
-    height: 80vh;
-    background: linear-gradient(
-                45deg,
-                rgba(255, 175, 189, 0.7),
-                rgba(100, 216, 243, 0.7),
-                rgba(234, 236, 198, 0.7),
-                rgba(245, 146, 176, 0.7),
-                rgba(52, 219, 216, 0.7)
-            )
-            0 0 / 1000% no-repeat,
-        url(/images/bg-title.jpg) 0 0 / cover no-repeat;
-    animation: gradientAnimation 40s ease infinite;
-}
-@keyframes gradientAnimation {
-    0% {
-        background-position: 0% 30%, 0 0;
-    }
-    50% {
-        background-position: 100% 70%, 0 0;
-    }
-    100% {
-        background-position: 0% 30%, 0 0;
-    }
-} */
-/* h1 {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #fff;
-    font: normal 600 72px/1 "Open Sans", sans-serif;
-    text-align: center;
-    white-space: nowrap;
-}
-h1 span {
-    display: block;
-    margin-top: 1em;
-    font-size: 40px;
-    font-weight: 300;
-} */
 #title {
     height: 80vh;
 }
@@ -179,7 +125,7 @@ h1 span {
 }
 #history {
     height: 100vh;
-    background-image: url(/images/bg-history.jpg);
+    background-image: url(images/bg-history.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -192,7 +138,7 @@ h1 span {
 }
 #mediaaward {
     max-height: 100%;
-    background-image: url(/images/bg-media.jpg);
+    background-image: url(images/bg-media.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

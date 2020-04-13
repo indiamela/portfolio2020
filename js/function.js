@@ -1,9 +1,9 @@
 $(function() {
   $('#title').vegas({
       slides: [
-          { src: '/images/bg-title-1.jpg' },
-          { src: '/images/bg-title-2.jpg' },
-          { src: '/images/bg-title-4.jpg' },
+          { src: 'images/bg-title-1.jpg' },
+          { src: 'images/bg-title-2.jpg' },
+          { src: 'images/bg-title-4.jpg' },
       ],
       overlay: ['/vegas-master/src/overlays/08.png'], //フォルダ『overlays』の中からオーバーレイのパターン画像を選択
       transition: 'fade', //スライドを遷移させる際のアニメーション
