@@ -125,7 +125,7 @@ strong {
 }
 #history {
     height: 100vh;
-    background-image: url(images/bg-history.jpg);
+    background-image: url(/portfolio2020/images/bg-history.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -138,7 +138,7 @@ strong {
 }
 #mediaaward {
     max-height: 100%;
-    background-image: url(images/bg-media.jpg);
+    background-image: url(/portfolio2020/images/bg-media.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
